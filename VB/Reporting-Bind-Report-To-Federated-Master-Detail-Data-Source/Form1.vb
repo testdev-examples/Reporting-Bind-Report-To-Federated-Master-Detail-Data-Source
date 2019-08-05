@@ -57,9 +57,9 @@ Namespace BindReportToFederatedMasterDetailDataSource
             detailReport.Bands.Add(detailBand2)
             report.Bands.AddRange(New Band() { detailBand, detailReport })
             ' Add a label bound to the "ProductName" data field.
-            Dim productLabel = New XRLabel() With { _
-                .WidthF = 300, _
-                .LocationF = New PointF(100, 0) _
+            Dim productLabel = New XRLabel() With {
+                .WidthF = 300,
+                .LocationF = New PointF(100, 0)
             }
             productLabel.ExpressionBindings.Add(New ExpressionBinding("BeforePrint", "Text", "[ProductName]"))
             detailBand2.Controls.Add(productLabel)
