@@ -34,8 +34,6 @@
             Me.button1.TabIndex = 0
             Me.button1.Text = "Show Designer"
             Me.button1.UseVisualStyleBackColor = True
-'INSTANT VB NOTE: The following InitializeComponent event wireup was converted to a 'Handles' clause:
-'ORIGINAL LINE: this.button1.Click += new System.EventHandler(this.Button1_Click);
             ' 
             ' Form1
             ' 

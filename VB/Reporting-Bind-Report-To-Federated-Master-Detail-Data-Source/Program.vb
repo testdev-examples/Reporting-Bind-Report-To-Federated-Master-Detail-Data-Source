@@ -10,7 +10,7 @@ Namespace BindReportToFederatedMasterDetailDataSource
         ''' <summary>
         ''' The main entry point for the application.
         ''' </summary>
-        <STAThread>
+        <STAThread> _
         Shared Sub Main()
             Application.EnableVisualStyles()
             Application.SetCompatibleTextRenderingDefault(False)

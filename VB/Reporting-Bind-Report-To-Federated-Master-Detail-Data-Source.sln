@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28010.2016
+VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BindReportToFederatedMasterDetailDataSource", "Reporting-Bind-Report-To-Federated-Master-Detail-Data-Source\BindReportToFederatedMasterDetailDataSource.vbproj", "{9642BD3D-3E7A-4C35-AC06-A32AE5BB4E1A}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BindReportToFederatedMasterDetailDataSource", "VB\Reporting-Bind-Report-To-Federated-Master-Detail-Data-Source\BindReportToFederatedMasterDetailDataSource.vbproj", "{9642BD3D-3E7A-4C35-AC06-A32AE5BB4E1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,11 +15,11 @@ Global
 		{9642BD3D-3E7A-4C35-AC06-A32AE5BB4E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9642BD3D-3E7A-4C35-AC06-A32AE5BB4E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9642BD3D-3E7A-4C35-AC06-A32AE5BB4E1A}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
+			EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A34297A9-AF2C-46A1-9BF5-32174B573A01}
+		SolutionGuid = {F5BA941B-FB9B-4247-9491-7B1D2D6DF98A}
 	EndGlobalSection
 EndGlobal
