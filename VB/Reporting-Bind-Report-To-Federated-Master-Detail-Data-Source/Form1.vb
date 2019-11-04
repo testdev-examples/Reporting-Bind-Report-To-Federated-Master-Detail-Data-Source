@@ -1,6 +1,5 @@
 ﻿Imports System
 Imports System.Windows.Forms
-Imports System.IO
 Imports DevExpress.DataAccess.ConnectionParameters
 Imports DevExpress.DataAccess.Sql
 Imports DevExpress.DataAccess.Excel
@@ -8,6 +7,7 @@ Imports DevExpress.DataAccess.DataFederation
 Imports System.ComponentModel
 Imports System.Drawing
 Imports DevExpress.XtraReports.UI
+Imports System.IO
 
 Namespace BindReportToFederatedMasterDetailDataSource
     Partial Public Class Form1
